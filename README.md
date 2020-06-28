@@ -1,2 +1,2 @@
 # gradienStyle
-https://github.com/Gal84/gradienStyle/colors.html
+https://gal84.github.io/gradienStyle/colors.html
